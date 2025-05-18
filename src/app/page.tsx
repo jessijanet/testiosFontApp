@@ -13,6 +13,7 @@ export default function Home() {
           priority
         />
    <input type="text" className="form-control w-full focus:outline-none p-[11px_10px_11px_24px] small text-grey-900 placeholder:text-grey-700  border border-grey-200 rounded-[30px] shadow-custom-1 hover:border-primary-400" aria-label="email address field" placeholder="Enter Enter your email address" />
+   <input type="text" className="form-control w-full focus:outline-none p-[11px_10px_11px_24px] small text-grey-900 placeholder:text-grey-700  border border-grey-200 rounded-[30px] shadow-custom-1 hover:border-primary-400"  aria-label="email address field" placeholder="Enter Name" />
 
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
